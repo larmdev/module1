@@ -26,7 +26,7 @@ git submodule update
 ```
 
 
-# update submodu remote
+### update submodu remote
 
 ```
 cd module1
